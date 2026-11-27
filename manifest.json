@@ -1,0 +1,18 @@
+{
+  "id": "./index1.5.html",
+  "name": "GTA Vi",
+  "short_name": "GTA Vi",
+  "start_url": "./index1.5.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
